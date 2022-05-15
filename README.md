@@ -4,10 +4,10 @@
 This analysis was performed to put together a strong business plan to get an investor on board for funding a new "Surf n' Shake" shop in Hawaii. The new shop will sell surf boards and ice cream. The investor is interested in the weather for the area due to a past business venture that failed due to the shop getting rained out. This analysis will either persuade or dissuade the investor based on temperatures and precipitation for the months of June and December.
 
 ## Results
-June Temperatures: ![image](https://user-images.githubusercontent.com/96644316/168476496-d90a96a6-27f5-4833-874c-deb1d94c1279.png)
-December Temperatures: ![image](https://user-images.githubusercontent.com/96644316/168476500-7bcbd826-5ac5-4e45-a71b-5953d98d14d3.png)
-June Precipitation: ![image](https://user-images.githubusercontent.com/96644316/168476521-d7131a75-f542-495c-948f-90036f1a7338.png)
-December Precipitation: ![image](https://user-images.githubusercontent.com/96644316/168476527-a051c650-b053-452e-a7e7-c66cc0b46949.png)
+* June Temperatures: ![image](https://user-images.githubusercontent.com/96644316/168476496-d90a96a6-27f5-4833-874c-deb1d94c1279.png)
+* December Temperatures: ![image](https://user-images.githubusercontent.com/96644316/168476500-7bcbd826-5ac5-4e45-a71b-5953d98d14d3.png)
+* June Precipitation: ![image](https://user-images.githubusercontent.com/96644316/168476521-d7131a75-f542-495c-948f-90036f1a7338.png)
+* December Precipitation: ![image](https://user-images.githubusercontent.com/96644316/168476527-a051c650-b053-452e-a7e7-c66cc0b46949.png)
 
 The differences between the temperatures and precipitation amounts in June and December are not very drastic.
 
